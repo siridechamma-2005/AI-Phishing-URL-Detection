@@ -1,3 +1,6 @@
+<img width="1817" height="653" alt="Screenshot 2026-08-11 151417" src="https://github.com/user-attachments/assets/ac942068-dd20-4255-83e7-1d4e26cfbde7" />
+<img width="853" height="780" alt="Screenshot 2026-08-11 151344" src="https://github.com/user-attachments/assets/8e322ef2-803f-403e-aa04-5e0f50ebcbff" />
+<img width="839" height="809" alt="Screenshot 2026-08-11 151320" src="https://github.com/user-attachments/assets/d6057280-0e66-475d-912d-3effca062fb7" />
 AI-Phishing-URL-Detection
 A lightweight python based web project that detects Phishing URL and flags it as legit or illegit
 AI Phishing URL Detection
